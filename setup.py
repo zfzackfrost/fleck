@@ -6,7 +6,11 @@ setup(
     description='Falling sand physics sandbox game.',
     packages=['fleck_game'],
     setup_requires=['Cython==0.28.4'],
-    install_requires=['kivy', 'numpy'],
+    install_requires=[
+        'kivy',
+        'numpy',
+        'appdirs',
+    ],
     scripts=['bin/fleck-game'],
     include_package_data=True
 )
