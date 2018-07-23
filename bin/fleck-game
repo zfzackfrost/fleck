@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+from fleck_game.app import FleckApp
+
+if __name__ == '__main__':
+    FleckApp().run()
