@@ -3,6 +3,9 @@ from kivy.properties import ListProperty
 
 
 class FleckWorld(EventDispatcher):
+    """Manages the particle simulation and related information.
+
+    """
 
     materials = ListProperty([])
 
