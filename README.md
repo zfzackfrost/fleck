@@ -3,8 +3,8 @@ Falling sand physics sandbox game, written in Python 3
 
 ## Requirements
 
-	- Python 3
-	- Windows, Mac or Linux
+- Python 3
+- Windows, Mac or Linux
 
 ## Motivation
 
